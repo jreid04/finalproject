@@ -1,0 +1,134 @@
+body {
+background-color: black;
+min-width: 320px;
+}
+
+header {
+background-color: firebrick;
+margin: 10px;
+height: 80px;
+border-radius: 5px;
+text-align: center;
+font-size: 2em;
+}
+
+h1 {
+color: white;
+text-align: center;
+font-size: 1.2em;
+font-family: "Hoefler Text";
+padding: 15px;
+}
+
+nav {
+background-color: firebrick;
+margin: 10px;
+height: 50px;
+border-radius: 5px;
+text-align: center;
+font-size: 1em;
+padding: .2px;
+}
+
+main {
+background-color: orange;
+margin: 10px 320px 10px 10px;
+border-radius: 5px;
+font-size: 1.4em;
+padding: 20px;
+height: 250px;
+}
+
+h2 {
+font-size: 1.5em;
+color: white;
+text-align: center;
+font-family: "Monaco";
+}
+
+nav ul {
+list-style-type: none;
+}
+
+nav li {
+display: inline;
+border-right: 1px solid black;
+border-left: 1px solid black;
+}
+
+aside {
+background-color: white;
+margin: 0px 10px 10px 10px;
+border-radius: 5px;
+padding: 20px;
+float: right;
+width: 250px;
+clear: right;
+height: 250px;
+}
+
+img {
+width: 225px;
+margin: 0px 10px 10px 10px;
+float: right;
+clear: right;
+}
+
+#section1 {
+background-color: orange;
+margin: 10px ;
+border-radius: 5px;
+padding: 20px;
+float: left;
+height: 250px;
+width: 34%;
+font-size: 1.2em;
+}
+
+#section2 {
+background-color: orange;
+margin: 10px;
+border-radius: 5px;
+padding: 20px;
+float: right;
+height: 250px;
+width: 34%;
+font-size: 1.2em;
+}
+
+#section3 {
+background-color: orange;
+margin: 10px 320px 10px 10px;
+border-radius: 5px;
+padding: 20px;
+float: left;
+width: 96%;
+height: 250px;
+font-size: 1.4em;
+text-align: center;
+}
+
+footer ul {
+list-style-type: none;
+}
+
+footer {
+background-color: firebrick;
+margin: 10px;
+height: 45px;
+border-radius: 5px;
+text-align: center;
+font-size: .9em;
+clear: both;
+}
+
+a {
+color: yellow;
+background-color: orange;
+border-radius: 5px;
+}
+
+.bottomaside {
+margin: 10px;
+float: right;
+}
